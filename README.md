@@ -1,1 +1,1 @@
-# Magic_Royal_Hotels
+# magic_royal_hotels
