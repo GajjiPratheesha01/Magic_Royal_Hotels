@@ -22,7 +22,7 @@ Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,You
 6.Azure Role Based access Control(RBAC)
 
 #Problem Statement:
-Create an efficient e-commerce solution for "Electro" focusing on user-friendly navigation, inventory management, and showcasing affordable prices and enticing offers on a diverse range of electronic gadgets, including smartwatches, smartphones, laptops, and tablets.
+In this today’s world travellers face many challenges in finding the best  hotels according to their comfort and recommendations that align to their life styles preferences  travellers can book their accomidation at any time and any where with freely comfortabily. 
 
 #Project Description:
 Creating of this website “magic royal hotels “is to provide an easy stay to travellers and explorers with comfort and safe residence with many facilities this hotel booking lifestyle for accommodation bookings providing a platform for customers based on their requirements and recommendations as per their preferences’. hotel was the kind of space that let the clam self-rise and breathe
