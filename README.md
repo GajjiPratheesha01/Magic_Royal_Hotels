@@ -1,5 +1,5 @@
 <h1>Magic Royal Hotels</h1>
-Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,Your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
+Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 
 <h1>Project Details</h1>
 1. Project Demo URL: https://electrostorage2.z13.web.core.windows.net/
