@@ -12,9 +12,7 @@ Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,you
 1.Akshitha (project management) :Manages the web development project.
 
 2.pratheesha(Deployment) :Deployment and maintenance of project infrastructure
-
 3.prathyusha (Documentation) :Responsible for managing the documentation process
-
 4.dhruva (chatbot): collecting question and answers for content. 
 
 <h1>Azure services used</h1>
