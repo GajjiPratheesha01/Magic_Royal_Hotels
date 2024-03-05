@@ -17,6 +17,7 @@ Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,you
 
 <h1>Azure services used</h1>
 1. Azure blob storage
+
 2. Storage account
 3. Azure Backup service
 4. Azure AI services
