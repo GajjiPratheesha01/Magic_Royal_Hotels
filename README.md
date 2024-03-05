@@ -5,9 +5,7 @@ Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,you
 1. Project Demo URL: https://electrostorage2.z13.web.core.windows.net/
 
 2. Demo Video URL: https://youtu.be/8ErNjxboKGo
-3. 
 4. GitHub Repository URL: https://github.com/manojbachu/electro.git
-5. 
 6. Industry : E-commerce
 
 <h1>Roles and responsibilities</h1>
