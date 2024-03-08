@@ -22,7 +22,6 @@ Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,you
 3. Azure Backup service
 4. Azure AI services
 5. chatbot
-6.Azure Role Based access Control(RBAC)
 
 <h1>Problem Statement</h1>
 
@@ -92,4 +91,4 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
 <h1>Final Project Statement:</h1>
-Patients can schedule appointments for at-home medical examinations. For the patients, it is very convenient and easy to use. It provides ENT, dental, eye care and skin treatments. This innovative approach ensures that emergency medical care and examinations are accessible.
+By addressing the challenges inherent in hotel booking processes, our project aims to deliver a robust and user-friendly solution that enhances efficiency, minimizes errors, and improves customer satisfaction. Through collaboration with industry stakeholders and a focus on innovation, we strive to set new standards for excellence in hotel reservation management.
