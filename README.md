@@ -1,9 +1,8 @@
-<h1>Magic Royal Hotels</h1>
+![Screenshot 2024-03-12 162014](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/c81e1ea9-31b7-44fc-b668-91dcb68ff0ed)<h1>Magic Royal Hotels</h1>
 Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 
 <h1>Project Details</h1>
 1. Project Demo URL: https://royals.z13.web.core.windows.net/
-
 2. Demo Video URL: https://youtu.be/WcHGEBSTU9M?si=LcfC5EdAC9ubtw8P
 4. GitHub Repository URL: https://github.com/GajjiPratheesha01/Magic_Royal_Hotels.git
 6. Industry : Life Style
@@ -42,39 +41,32 @@ Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage s
 <h1>Screenshot’s:</h1>
 
 <h3>static website</h3> 
-<img src="" alt="static website"/>
+<img src="![Screenshot 2024-03-12 170032](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/996187de-476e-4498-8eb3-a4b96dbe26cd)
+
+  " alt="static website"/>
 
 
 <h3>storage account</h3> 
-<img src="" alt="storage account"/>
+<img src="![Screenshot 2024-03-12 153925](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/681e7362-74bd-4678-9c78-d9de50f6aeb3)" alt="storage account"/>
 
-<h3>container</h3> 
-<img src="" alt="container"/>
+<h3>Backup vault</h3> 
+<img src="![Screenshot 2024-03-12 162014](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/3c6e3067-8010-4d2c-9524-16455259f036)" alt="Backup vault"/>
 
 <h3>backup policy</h3>
-<img src=" " alt="Role Assignment"/>
+<img src="![Screenshot 2024-03-12 163509](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/18fe6fcb-2375-434a-80ff-433f0a96a691) " alt="Backup policy"/>
 
 <h3>AI Chatbot</h3>
-<img src=" " alt="AI Chatbot"/>
-
-<h3>Test in web chat</h3>
-<img src=" " alt="Test in webchat"/>
+<img src="![Screenshot 2024-03-12 163725](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/6b36de79-7947-4ed7-b69e-ce720862cb9f)" alt="AI Chatbot"/>
 
 <h3>Resource Visualizer</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/resource%20visualizer.png?raw=true" alt="resource visualizer"/>
+<img src="![Screenshot 2024-03-12 163943](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/9c91a1f4-31a7-4ea8-a404-c8e47e05d004) " alt="resource visualizer"/>
 
 <h1>Description</h1>
 Here I am attaching the final working website's screenshot for the reference.
 <h1>Working Live Project Display:</h1>
 <h3>Home</h3> 
-<img src="" alt="Home"/>
-
-<h3>Register</h3>
-<img src=" " alt="Register"/>
-
-<h3>contact us</h3> 
-<img src="" alt="contact us"/>
-
+<img src="![Screenshot 2024-03-12 163600](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/ca4bb135-3e52-4f27-9f24-b5e8ed60b0ba)
+" alt="Home"/>
 
 <h1>Final Project Statement:</h1>
 By addressing the challenges inherent in hotel booking processes, our project aims to deliver a robust and user-friendly solution that enhances efficiency, minimizes errors, and improves customer satisfaction. Through collaboration with industry stakeholders and a focus on innovation, we strive to set new standards for excellence in hotel reservation management.
