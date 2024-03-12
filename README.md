@@ -1,4 +1,4 @@
-![Screenshot 2024-03-12 162014](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/c81e1ea9-31b7-44fc-b668-91dcb68ff0ed)<h1>Magic Royal Hotels</h1>
+<h1>Magic Royal Hotels</h1>
 Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 
 <h1>Project Details</h1>
