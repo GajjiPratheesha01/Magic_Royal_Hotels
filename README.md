@@ -2,10 +2,10 @@
 Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 
 <h1>Project Details</h1>
-1. Project Demo URL: https://royals.z13.web.core.windows.net/
-2. Demo Video URL: https://youtu.be/WcHGEBSTU9M?si=LcfC5EdAC9ubtw8P
-4. GitHub Repository URL: https://github.com/GajjiPratheesha01/Magic_Royal_Hotels.git
-6. Industry : Life Style
+1. Project Demo URL: https://royals.z13.web.core.windows.net/<br>
+2. Demo Video URL: https://youtu.be/WcHGEBSTU9M?si=LcfC5EdAC9ubtw8P<br>
+4. GitHub Repository URL: https://github.com/GajjiPratheesha01/Magic_Royal_Hotels.git<br>
+5. Industry : Life Style
 
 <h1>Roles and responsibilities</h1>
 1.Akshitha (project management) :Manages the web development project.<br>
