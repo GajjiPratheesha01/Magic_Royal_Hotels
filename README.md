@@ -2,26 +2,24 @@
 Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 
 <h1>Project Details</h1>
-1. Project Demo URL: https://electrostorage2.z13.web.core.windows.net/
+1. Project Demo URL: https://royals.z13.web.core.windows.net/
 
-2. Demo Video URL: https://youtu.be/8ErNjxboKGo
-4. GitHub Repository URL: https://github.com/manojbachu/electro.git
-6. Industry : E-commerce
+2. Demo Video URL: https://youtu.be/WcHGEBSTU9M?si=LcfC5EdAC9ubtw8P
+4. GitHub Repository URL: https://github.com/GajjiPratheesha01/Magic_Royal_Hotels.git
+6. Industry : Life Style
 
 <h1>Roles and responsibilities</h1>
-1.Akshitha (project management) :Manages the web development project.
-
-2.pratheesha(Deployment) :Deployment and maintenance of project infrastructure
-3.prathyusha (Documentation) :Responsible for managing the documentation process
-4.dhruva (chatbot): collecting question and answers for content. 
+1.Akshitha (project management) :Manages the web development project.<br>
+2.pratheesha(Deployment)        :Deployment and maintenance of project infrastructure<br>
+3.prathyusha (Documentation)    :Responsible for managing the documentation process<br>
+4.dhruva (chatbot)              : collecting question and answers for content.<br>
 
 <h1>Azure services used</h1>
-1. Azure blob storage
-
-2. Storage account
-3. Azure Backup service
-4. Azure AI services
-5. chatbot
+1. Azure blob storage<br>
+2. Storage account<br>
+3. Azure Backup service<br>
+4. Azure AI services<br>
+5. chatbot<br>
 
 <h1>Problem Statement</h1>
 
@@ -43,29 +41,24 @@ Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage s
 
 <h1>Screenshot’s:</h1>
 
-<h3>Storage Account</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/storage%20account.jpg.png?raw=true" alt="Storage account"/>
+<h3>static website</h3> 
+<img src="" alt="static website"/>
 
-<h3>Static Website</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/staticwebsite.jpg.png?raw=true" alt="Static website"/>
 
-<h3>Container</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/container.jpg.png?raw=true" alt="Container"/>
+<h3>storage account</h3> 
+<img src="" alt="storage account"/>
 
-<h3>Backup od Blob</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/backup%20od%20blob.png?raw=true" alt="Backup blob"/>
+<h3>container</h3> 
+<img src="" alt="container"/>
 
-<h3>Backup Policy</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/back%20up%20policy.png?raw=true" alt="Back up policy"/>
+<h3>backup policy</h3>
+<img src=" " alt="Role Assignment"/>
 
-<h3>Role Assignment</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/role%20assignment.jpg.png?raw=true" alt="role assignment"/>
+<h3>AI Chatbot</h3>
+<img src=" " alt="AI Chatbot"/>
 
-<h3>AI Chatbot</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/AI%20Chagbot.png?raw=true" alt="AI Chatbot"/>
-
-<h3>Test in web chat</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/chat%20bot%20text.png?raw=true" alt="chatbot test"/>
+<h3>Test in web chat</h3>
+<img src=" " alt="Test in webchat"/>
 
 <h3>Resource Visualizer</h3> 
 <img src="https://github.com/manojbachu/electro/blob/main/resource%20visualizer.png?raw=true" alt="resource visualizer"/>
@@ -76,18 +69,11 @@ Here I am attaching the final working website's screenshot for the reference.
 <h3>Home</h3> 
 <img src="" alt="Home"/>
 
-<h3>About Us</h3> 
-<img src="" alt="About Us"/>
+<h3>Register</h3>
+<img src=" " alt="Register"/>
 
-
-
-<h3>Our Treatments</h3> 
-<img src="" alt="categories"/>
-
-<h3>Our Partners</h3> 
-<img src="Contact us" alt="products"/>
-
-
+<h3>contact us</h3> 
+<img src="" alt="contact us"/>
 
 
 <h1>Final Project Statement:</h1>
