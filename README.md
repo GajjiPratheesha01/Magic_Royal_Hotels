@@ -43,13 +43,11 @@ Screenshot’s
 static website 
 ![Screenshot 2024-03-12 170032](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/c1696db5-3304-4869-b924-e463cfc4296c)
 
+storage account 
+![Screenshot 2024-03-12 153925](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/681e7362-74bd-4678-9c78-d9de50f6aeb3)
 
-
-<h3>storage account</h3> 
-<img src="![Screenshot 2024-03-12 153925](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/681e7362-74bd-4678-9c78-d9de50f6aeb3)" alt="storage account"/>
-
-<h3>Backup vault</h3> 
-<img src="![Screenshot 2024-03-12 162014](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/3c6e3067-8010-4d2c-9524-16455259f036)" alt="Backup vault"/>
+Backup vault 
+![Screenshot 2024-03-12 162014](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/3c6e3067-8010-4d2c-9524-16455259f036)
 
 <h3>backup policy</h3>
 <img src="![Screenshot 2024-03-12 163509](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/18fe6fcb-2375-434a-80ff-433f0a96a691) " alt="Backup policy"/>
