@@ -49,21 +49,21 @@ storage account
 Backup vault 
 ![Screenshot 2024-03-12 162014](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/3c6e3067-8010-4d2c-9524-16455259f036)
 
-<h3>backup policy</h3>
-<img src="![Screenshot 2024-03-12 163509](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/18fe6fcb-2375-434a-80ff-433f0a96a691) " alt="Backup policy"/>
+backup policy
+![Screenshot 2024-03-12 163509](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/18fe6fcb-2375-434a-80ff-433f0a96a691)
 
-<h3>AI Chatbot</h3>
-<img src="![Screenshot 2024-03-12 163725](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/6b36de79-7947-4ed7-b69e-ce720862cb9f)" alt="AI Chatbot"/>
+AI Chatbot
+![Screenshot 2024-03-12 163725](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/6b36de79-7947-4ed7-b69e-ce720862cb9f)
 
-<h3>Resource Visualizer</h3> 
-<img src="![Screenshot 2024-03-12 163943](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/9c91a1f4-31a7-4ea8-a404-c8e47e05d004) " alt="resource visualizer"/>
+Resource Visualizer 
+![Screenshot 2024-03-12 163943](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/9c91a1f4-31a7-4ea8-a404-c8e47e05d004)
 
-<h1>Description</h1>
+Description
 Here I am attaching the final working website's screenshot for the reference.
 <h1>Working Live Project Display:</h1>
-<h3>Home</h3> 
-<img src="![Screenshot 2024-03-12 163600](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/ca4bb135-3e52-4f27-9f24-b5e8ed60b0ba)
-" alt="Home"/>
 
-<h1>Final Project Statement:</h1>
+Home
+![Screenshot 2024-03-12 163600](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/ca4bb135-3e52-4f27-9f24-b5e8ed60b0ba)
+
+Final Project Statement:
 By addressing the challenges inherent in hotel booking processes, our project aims to deliver a robust and user-friendly solution that enhances efficiency, minimizes errors, and improves customer satisfaction. Through collaboration with industry stakeholders and a focus on innovation, we strive to set new standards for excellence in hotel reservation management.
