@@ -56,14 +56,11 @@ Screenshot’s
 # Backup policy
 ![Screenshot 2024-03-12 163509](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/18fe6fcb-2375-434a-80ff-433f0a96a691)
 
-# AI Chatbot
-![Screenshot 2024-03-12 163725](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/6b36de79-7947-4ed7-b69e-ce720862cb9f)
-
 # AZ Language service
 ![Screenshot 2024-04-07 220120](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/49d81a7d-a544-4efd-8bd1-f0130b13b981)
 
 
-# AZ bot
+# Azure Bot
 ![Screenshot 2024-04-07 215823](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/e973e79c-5a58-4d0c-91a1-c3f172384884)
 
 
