@@ -1,4 +1,4 @@
-<h1>Magic Royal Hotels</h1>
+![Screenshot (78)](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/112c6d3b-bcb0-4da0-9e29-944c1a728939)<h1>Magic Royal Hotels</h1>
 Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 
 <h1>Project Details</h1>
@@ -43,7 +43,8 @@ Screenshot’s
 # static website
 ![Screenshot 2024-03-12 170032](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/c1696db5-3304-4869-b924-e463cfc4296c)
 
-#Uploading Blob files
+# Uploading Blob files
+![Screenshot 2024-04-07 220539](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/71415b78-263b-4f79-bebb-05185a9fa44b)
 
 
 # storage account 
@@ -58,20 +59,30 @@ Screenshot’s
 # AI Chatbot
 ![Screenshot 2024-03-12 163725](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/6b36de79-7947-4ed7-b69e-ce720862cb9f)
 
-#AZ Language service
--
+# AZ Language service
+![Screenshot 2024-04-07 220120](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/49d81a7d-a544-4efd-8bd1-f0130b13b981)
 
-#Uploading Bot files to custom Question Answering
--
 
-#Endpoints for static website
--
+# AZ bot
+![Screenshot 2024-04-07 215823](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/e973e79c-5a58-4d0c-91a1-c3f172384884)
 
-#Azure Role Assignments
--
 
-#Bot Response
--
+# Uploading Bot files to custom Question Answering
+![Screenshot 2024-04-07 220323](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/68520270-4a09-4596-8085-75a7156d8b4e)
+
+
+# Endpoints for static website
+![Screenshot 2024-03-12 170032](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/09f77c93-84aa-4840-95a6-cfb383d6d5dd)
+
+
+# Azure Role Assignments
+![Screenshot 2024-04-07 213949](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/f9eca96a-52c5-4f58-9b67-0d59e53cbb30)
+
+
+
+# Bot Response
+![Screenshot 2024-03-12 163725](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/ec8b0ec4-d31c-402f-9dab-37348af151ea)
+
 
 # Resource Visualizer 
 ![Screenshot 2024-03-12 163943](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/9c91a1f4-31a7-4ea8-a404-c8e47e05d004)
