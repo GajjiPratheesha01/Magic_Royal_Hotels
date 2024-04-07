@@ -2,7 +2,7 @@
 Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 
 <h1>Project Details</h1>
-1. Project Demo URL: https://royals.z13.web.core.windows.net/<br>
+1. Project Demo URL: https://royal1.z13.web.core.windows.net/<br>
 2. Demo Video URL: https://youtu.be/WcHGEBSTU9M?si=LcfC5EdAC9ubtw8P<br>
 4. GitHub Repository URL: https://github.com/GajjiPratheesha01/Magic_Royal_Hotels.git<br>
 5. Industry : Life Style
@@ -39,7 +39,6 @@ Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage s
 <b>Azure Chatbot </b>: The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 
 Screenshot’s
-
 
 # storage account 
 ![Screenshot 2024-03-12 153925](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/681e7362-74bd-4678-9c78-d9de50f6aeb3)
