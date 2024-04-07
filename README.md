@@ -40,15 +40,13 @@ Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage s
 
 Screenshot’s
 
-# static website
-![Screenshot 2024-03-12 170032](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/c1696db5-3304-4869-b924-e463cfc4296c)
-
-# Uploading Blob files
-![Screenshot 2024-04-07 220539](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/71415b78-263b-4f79-bebb-05185a9fa44b)
-
 
 # storage account 
 ![Screenshot 2024-03-12 153925](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/681e7362-74bd-4678-9c78-d9de50f6aeb3)
+
+
+# Uploading Blob files
+![Screenshot 2024-04-07 220539](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/71415b78-263b-4f79-bebb-05185a9fa44b)
 
 # Backup vault
 ![Screenshot 2024-03-12 162014](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/3c6e3067-8010-4d2c-9524-16455259f036)
@@ -74,7 +72,6 @@ Screenshot’s
 
 # Azure Role Assignments
 ![Screenshot 2024-04-07 213949](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/f9eca96a-52c5-4f58-9b67-0d59e53cbb30)
-
 
 
 # Bot Response
