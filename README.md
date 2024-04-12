@@ -80,6 +80,24 @@ Screenshot’s
 # Resource Visualizer 
 ![Screenshot 2024-03-12 163943](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/9c91a1f4-31a7-4ea8-a404-c8e47e05d004)
 
+# Accomodation
+![Screenshot (83)](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/4b3ccfab-03e4-435d-af2c-f4393b151443)
+
+# Leisure & Facilities
+![Screenshot (90)](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/00fc028d-036b-45bf-9d18-dd47819ceeb2)
+
+# Dinning
+![Screenshot (86)](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/075d4cdc-dd77-4a28-b53b-57b0765737fd)
+
+# Booking
+![Screenshot (84)](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/10d05e64-7f38-411f-9b1d-b159ff68714b)
+
+# Login page
+![Screenshot (88)](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/8e374a07-3c6d-4f5f-a33b-0828e0283663)
+
+# register page
+![Screenshot (89)](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/5806f4b6-bbe9-4817-8d86-f053bd02b85b)
+
 Description
 Here I am attaching the final working website's screenshot for the reference.
 <h1>Working Live Project Display:</h1>
