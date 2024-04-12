@@ -81,7 +81,7 @@ Screenshot’s
 ![Screenshot 2024-03-12 163943](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/9c91a1f4-31a7-4ea8-a404-c8e47e05d004)
 
 # Accomodation
-![Screenshot (83)](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/4b3ccfab-03e4-435d-af2c-f4393b151443)
+![Screenshot (91)](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/c1d78aff-033b-42d6-b316-53d68e1f1280)
 
 # Leisure & Facilities
 ![Screenshot (90)](https://github.com/GajjiPratheesha01/Magic_Royal_Hotels/assets/161677735/00fc028d-036b-45bf-9d18-dd47819ceeb2)
